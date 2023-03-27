@@ -1,0 +1,11 @@
+﻿  Camisa.cpp
+  Cotizacion.cpp
+  Pantalon.cpp
+  Prenda.cpp
+  Tienda.cpp
+C:\Users\Lucio\Desktop\C++\tiendaQuark\tiendaQuark\Tienda.cpp(584,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lucio\Desktop\C++\tiendaQuark\tiendaQuark\Tienda.cpp(589,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Vendedor.cpp
+  tiendaQuark.cpp
+  Generating Code...
+  tiendaQuark.vcxproj -> C:\Users\Lucio\Desktop\C++\tiendaQuark\x64\Debug\tiendaQuark.exe
